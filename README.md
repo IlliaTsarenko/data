@@ -1,1 +1,1 @@
-# data analysys of AirBnB room prices
+# Data analysys of AirBnB room prices
